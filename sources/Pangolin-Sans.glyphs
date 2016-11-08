@@ -31625,14 +31625,13 @@ note = space;
 unicode = 0020;
 },
 {
-glyphname = nonbreakingspace;
+glyphname = nbspace;
 layers = (
 {
 layerId = "44398CD6-F961-4ECB-B01A-EEBF1DAB2450";
 width = 217;
 }
 );
-note = nonbreakingspace;
 unicode = 00A0;
 },
 {
@@ -31656,6 +31655,16 @@ width = 600;
 unicode = 200B;
 },
 {
+glyphname = CR;
+layers = (
+{
+layerId = "44398CD6-F961-4ECB-B01A-EEBF1DAB2450";
+width = 217;
+}
+);
+unicode = 000D;
+},
+{
 glyphname = controlCR;
 layers = (
 {
@@ -31675,7 +31684,6 @@ width = 650;
 }
 );
 note = .notdef;
-unicode = 0000;
 },
 {
 glyphname = cedi;
@@ -40945,26 +40953,6 @@ layerId = "44398CD6-F961-4ECB-B01A-EEBF1DAB2450";
 width = 600;
 }
 );
-},
-{
-glyphname = nbspace;
-layers = (
-{
-layerId = "44398CD6-F961-4ECB-B01A-EEBF1DAB2450";
-width = 217;
-}
-);
-unicode = 00A0;
-},
-{
-glyphname = CR;
-layers = (
-{
-layerId = "44398CD6-F961-4ECB-B01A-EEBF1DAB2450";
-width = 217;
-}
-);
-unicode = 000D;
 },
 {
 glyphname = NULL;
