@@ -31665,17 +31665,6 @@ width = 217;
 unicode = 000D;
 },
 {
-glyphname = controlCR;
-layers = (
-{
-layerId = "44398CD6-F961-4ECB-B01A-EEBF1DAB2450";
-width = 217;
-}
-);
-note = controlCR;
-unicode = 000D;
-},
-{
 glyphname = .notdef;
 layers = (
 {
