@@ -43,24 +43,7 @@ date = "2017-01-10 18:10:01 +0000";
 designer = "Kevin Burke";
 designerURL = "http://www.google.com";
 disablesNiceNames = 1;
-familyName = "Pangolin Sans";
-featurePrefixes = (
-{
-automatic = 1;
-code = "languagesystem DFLT dflt;
-languagesystem latn dflt;
-languagesystem latn CAT;
-languagesystem latn ROM;
-languagesystem latn MOL;
-languagesystem latn KAZ;
-languagesystem latn TAT;
-languagesystem latn TRK;
-languagesystem latn CRT;
-languagesystem latn AZE;
-";
-name = Languagesystems;
-}
-);
+familyName = Pangolin;
 features = (
 {
 automatic = 1;
@@ -219,7 +202,7 @@ value = 0;
 },
 {
 name = winAscent;
-value = 1147;
+value = 1148;
 },
 {
 name = winDescent;
